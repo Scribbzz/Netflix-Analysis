@@ -48,8 +48,6 @@ A data analysis project using Python to explore and visualize insights from Netf
 > Most Frequent Countries  
 > ![Countries](images/top_countries.png)
 
-(*Note: Add these PNGs to a folder called `images/` if you export them.*)
-
 ---
 
 ## 🧠 Insights Explored
