@@ -74,12 +74,12 @@ A data analysis project using Python to explore and visualize insights from Netf
 
 4. Make sure the dataset(netflix_titles.csv) is in the data/ folder
 
-## To-Do (Future Improvements)
+## 📈 To-Do (Future Improvements)
 - Add interactive dashboard using Streamlit
 
 - Merge with Amazon/Disney+ datasets for platform comparison
 
 - Analyze director/actor patterns using network graphs
 
-## License
+## 📄 License
 This project is open-source and available under the MIT License.
