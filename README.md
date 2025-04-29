@@ -63,7 +63,7 @@ A data analysis project using Python to explore and visualize insights from Netf
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/netflix-data-analysis.git
+   git clone https://github.com/Scribbzz/netflix-data-analysis.git
    cd netflix-data-analysis
 
 2. Install dependencies
